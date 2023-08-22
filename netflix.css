@@ -1,0 +1,123 @@
+.series {
+    letter-spacing: 10px;
+}
+
+.tvlabel {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.card1:hover {
+    width: 360px;
+    transition-duration: 0.5s;
+}
+
+.card2:hover {
+    width: 360px;
+    transition-duration: 0.5s;
+}
+
+.card3:hover {
+    width: 360px;
+    transition-duration: 0.5s;
+}
+
+.card4:hover {
+    width: 360px;
+    transition-duration: 0.5s;
+}
+
+#page2 {
+    background-color: rgb(20, 20, 20);
+}
+
+.card11:hover {
+    box-shadow: 0 0 10px 1px #ffffff;
+    transition-duration: 0.5s;
+}
+
+.card12:hover {
+    box-shadow: 0 0 10px 1px #ffffff;
+    transition-duration: 0.5s;
+}
+
+.card13:hover {
+    box-shadow: 0 0 10px 1px #ffffff;
+    transition-duration: 0.5s;
+}
+
+.card14:hover {
+    box-shadow: 0 0 10px 1px #ffffff;
+    transition-duration: 0.5s;
+}
+
+.card15:hover {
+    box-shadow: 0 0 10px 1px #ffffff;
+    transition-duration: 0.5s;
+}
+
+.card16:hover {
+    box-shadow: 0 0 10px 1px #ffffff;
+    transition-duration: 0.5s;
+}
+
+.footer{
+    background-color:rgb(33,37,41);
+}
+.footh{
+font-size: 35px;
+}
+.links a{
+    text-decoration: none;
+    color: rgb(121, 120, 120);
+}
+.links{
+    color: rgb(121, 120, 120);
+}
+.tvhead{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.allq{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+#signup{
+    background-image: url(images/signupBack.jpeg);
+}
+.loginhead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.logind{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.logindd{
+    font-size: 25px;
+}
+.place::-webkit-input-placeholder{
+    color: #ffffff;
+}
+.liink a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.placce::-webkit-input-placeholder{
+    color: #747474;
+}
+.placce{
+    border: none;
+}
+.bgg{
+    background-color: rgba(0, 0, 0, 0.753);
+}
+.learn a{
+    text-decoration: none;
+}
+.redbtn{
+    background-color: rgb(229,9,19);
+}
+.redbtn:hover{
+    background-color: rgb(189, 7, 16);
+}
